@@ -1,1 +1,59 @@
-Verifying myself: I am dougkmcnish on Keybase.io. fA4q0NGK5vq5tu9zbTZ-rsaeL1-D56nenxXY / https://keybase.io/dougkmcnish/sigs/fA4q0NGK5vq5tu9zbTZ-rsaeL1-D56nenxXY
+dougkmcnish
+Doug McNish
+Security consultant.
+==================================================================
+https://keybase.io/dougkmcnish
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dougkmcnish.github.io
+  * I am dougkmcnish (https://keybase.io/dougkmcnish) on keybase.
+  * I have a public key ASDazM7cu8uY0UGKskOuBk8XjS_qkV1is_q2vOcFEAeNPAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120dacccedcbbcb98d1418ab243ae064f178d2fea915d62b3fab6bce70510078d3c0a",
+      "host": "keybase.io",
+      "kid": "0120dacccedcbbcb98d1418ab243ae064f178d2fea915d62b3fab6bce70510078d3c0a",
+      "uid": "40d7a9b79bc185a9fa0345b55a66d719",
+      "username": "dougkmcnish"
+    },
+    "merkle_root": {
+      "ctime": 1666796010,
+      "hash": "5aa2ebabf1fe48a3d2b91d9bc25a1a0652d853c5079d9dc322906f3099503e51a2c0946961f364ba699c0667c6db750ea5e5fb0f9bf07d08fc60e56add91f15e",
+      "hash_meta": "f1a5c877ee4cd1879c63b5b8771e67a7459c535628490fa5cff601004c98e97c",
+      "seqno": 23436528
+    },
+    "service": {
+      "entropy": "8FtwL++Fhntp6IEjGE1j574p",
+      "hostname": "dougkmcnish.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1666796040,
+  "expire_in": 504576000,
+  "prev": "e172761929a11352aa7ab36d683577f682454494e55e853ae5fd6b69e516fb8b",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2szO3LvLmNFBirJDrgZPF40v6pFdYrP6trznBRAHjTwKp3BheWxvYWTESpcCD8Qg4XJ2GSmhE1KqerNtaDV39oJFRJTlXoU65f1raeUW+4vEIDRSm8EGEMiXsnEvRxSeugaEIss7SatI+ju2Xu2+HErTAgHCo3NpZ8RAK6iPnATs/bfya6z18vBP8H7qPQd4AwRLswCPfolQJDQdiB5gEx7v1GBO2rZwXfyfpSBg19hqCgVbAmMu2zVeBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILPm+TfIfJ5MBbWXPpkE+Ay83U76/Tznn9Ee4b66m4efo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dougkmcnish
+
+==================================================================
